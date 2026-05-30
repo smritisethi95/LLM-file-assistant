@@ -1,0 +1,43 @@
+ALEX KUMAR
+Email: alex.kumar@email.com | Phone: (555) 789-0123
+LinkedIn: linkedin.com/in/alexkumar | Location: Denver, CO
+
+PROFESSIONAL SUMMARY
+Machine Learning Engineer with 4 years of experience deploying ML models at scale.
+Expertise in deep learning, MLOps, and building end-to-end ML pipelines using Python.
+
+SKILLS
+- Programming: Python, C++, Julia
+- ML/DL: PyTorch, TensorFlow, JAX, ONNX
+- MLOps: MLflow, Kubeflow, DVC, Weights & Biases
+- Data: Spark, Pandas, Dask, Apache Beam
+- Cloud: AWS (SageMaker, EKS), GCP (Vertex AI)
+- Infrastructure: Docker, Kubernetes, Terraform
+
+EXPERIENCE
+
+Senior ML Engineer | AIScale Inc. | 2023 - Present
+- Deployed LLM-based chatbot serving 1M+ queries daily
+- Built feature store reducing model training time by 40%
+- Implemented A/B testing framework for ML experiments
+- Optimized model inference achieving 5x latency improvement
+
+ML Engineer | DeepVision | 2021 - 2023
+- Developed computer vision models for autonomous vehicle perception
+- Built automated model retraining pipeline using Kubeflow
+- Implemented model monitoring and drift detection systems
+- Reduced model serving costs by 60% through quantization and pruning
+
+Data Engineer | DataFlow Systems | 2020 - 2021
+- Built real-time data pipelines using Python and Apache Beam
+- Designed data warehouse schema for analytics team
+- Implemented data quality checks and validation frameworks
+- Processed 10TB+ daily data volume
+
+EDUCATION
+M.S. Machine Learning | Carnegie Mellon University | 2020
+B.Tech Computer Science | IIT Delhi | 2018
+
+PUBLICATIONS
+- "Efficient Inference for Large Language Models" - ICML 2024
+- "Real-time Object Detection at Scale" - CVPR 2022

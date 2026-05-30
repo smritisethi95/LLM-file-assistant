@@ -1,0 +1,44 @@
+EMILY MARTINEZ
+Email: emily.martinez@email.com | Phone: (555) 678-9012
+LinkedIn: linkedin.com/in/emilymartinez | Location: Chicago, IL
+
+PROFESSIONAL SUMMARY
+UX/UI Designer and Front-end Developer with 5 years of experience creating
+user-centered digital products. Combines design thinking with technical skills
+to bridge the gap between design and development.
+
+SKILLS
+- Design: Figma, Sketch, Adobe XD, Illustrator, Photoshop
+- Frontend: HTML5, CSS3, JavaScript, React, Svelte
+- CSS: Tailwind CSS, SASS, CSS Modules, Styled Components
+- Prototyping: Framer, InVision, Principle
+- Research: User interviews, A/B testing, heuristic evaluation
+- Accessibility: WCAG 2.1, ARIA, screen reader testing
+
+EXPERIENCE
+
+Senior UX Engineer | DesignTech Labs | 2022 - Present
+- Led redesign of flagship product increasing user satisfaction by 40%
+- Built component library used by 12 development teams
+- Conducted user research with 50+ participants per quarter
+- Implemented design tokens system for consistent cross-platform UI
+
+UX/UI Developer | CreativeFlow Agency | 2020 - 2022
+- Designed and developed responsive websites for 20+ clients
+- Created interactive prototypes for user testing
+- Improved conversion rates by 25% through data-driven design iterations
+- Mentored 3 junior designers
+
+Frontend Developer | WebStudio | 2019 - 2020
+- Built pixel-perfect implementations from Figma designs
+- Developed reusable React component library
+- Ensured cross-browser compatibility and responsiveness
+- Collaborated with designers on design system documentation
+
+EDUCATION
+B.F.A. Digital Design | School of the Art Institute of Chicago | 2019
+Minor: Computer Science
+
+AWARDS
+- Webby Award Honoree 2023 - Best User Experience
+- Google Material Design Award 2022
