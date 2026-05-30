@@ -1,0 +1,41 @@
+JANE SMITH
+Email: jane.smith@email.com | Phone: (555) 234-5678
+LinkedIn: linkedin.com/in/janesmith | Location: New York, NY
+
+PROFESSIONAL SUMMARY
+Data Scientist with 5 years of experience in machine learning, statistical analysis,
+and data engineering. Expert in Python and R with a focus on NLP and computer vision.
+
+SKILLS
+- Programming: Python, R, SQL, Scala
+- ML/AI: TensorFlow, PyTorch, scikit-learn, Hugging Face
+- Data: Pandas, NumPy, Spark, Airflow
+- Visualization: Matplotlib, Seaborn, Tableau, Power BI
+- Cloud: GCP (BigQuery, Vertex AI), AWS SageMaker
+
+EXPERIENCE
+
+Senior Data Scientist | AI Solutions Corp | 2022 - Present
+- Developed NLP models for document classification with 95% accuracy
+- Built recommendation engine increasing user engagement by 30%
+- Led A/B testing framework for product features
+- Deployed ML models to production using MLflow and Kubernetes
+
+Data Scientist | Analytics Pro | 2020 - 2022
+- Created predictive models for customer churn reducing attrition by 20%
+- Built automated data pipelines processing 5TB daily using Python and Spark
+- Conducted statistical analyses for business decision-making
+- Presented findings to C-suite executives
+
+Data Analyst | MarketInsights | 2019 - 2020
+- Performed exploratory data analysis on marketing campaigns
+- Created dashboards using Tableau and Power BI
+- Automated reporting workflows with Python scripts
+
+EDUCATION
+M.S. Data Science | Columbia University | 2019
+B.S. Mathematics | MIT | 2017
+
+PUBLICATIONS
+- "Transformer-based Approaches to Resume Parsing" - NeurIPS Workshop 2023
+- "Efficient NLP for Small Datasets" - EMNLP 2022

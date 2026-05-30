@@ -1,0 +1,44 @@
+SARAH WILLIAMS
+Email: sarah.williams@email.com | Phone: (555) 456-7890
+LinkedIn: linkedin.com/in/sarahwilliams | Location: Seattle, WA
+
+PROFESSIONAL SUMMARY
+DevOps Engineer with 7 years of experience in infrastructure automation, CI/CD pipelines,
+and cloud architecture. Expert in AWS, Terraform, and container orchestration.
+
+SKILLS
+- Cloud: AWS, Azure, GCP
+- IaC: Terraform, CloudFormation, Pulumi, Ansible
+- Containers: Docker, Kubernetes, ECS, Helm
+- CI/CD: Jenkins, GitHub Actions, GitLab CI, ArgoCD
+- Monitoring: Prometheus, Grafana, Datadog, ELK Stack
+- Scripting: Python, Bash, PowerShell
+
+EXPERIENCE
+
+Senior DevOps Engineer | CloudFirst Inc. | 2021 - Present
+- Designed multi-region AWS architecture with 99.99% uptime SLA
+- Implemented GitOps workflow reducing deployment failures by 80%
+- Built self-service infrastructure platform for development teams
+- Managed infrastructure costs of $2M+ monthly budget, achieving 25% savings
+
+DevOps Engineer | InfraScale | 2019 - 2021
+- Migrated monolithic application to microservices on Kubernetes
+- Built automated disaster recovery system with <15 min RTO
+- Implemented security scanning in CI/CD pipeline
+- Created infrastructure monitoring dashboards with Grafana
+
+Systems Administrator | NetOps Corp | 2017 - 2019
+- Managed fleet of 200+ Linux/Windows servers
+- Automated routine tasks using Python and Ansible
+- Implemented backup and recovery procedures
+- Handled incident response and on-call rotations
+
+EDUCATION
+B.S. Information Technology | University of Washington | 2017
+
+CERTIFICATIONS
+- AWS Solutions Architect Professional
+- Certified Kubernetes Administrator (CKA)
+- HashiCorp Terraform Associate
+- Azure DevOps Engineer Expert

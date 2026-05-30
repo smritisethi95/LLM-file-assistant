@@ -1,0 +1,45 @@
+RACHEL THOMPSON
+Email: rachel.thompson@email.com | Phone: (555) 890-1234
+LinkedIn: linkedin.com/in/rachelthompson | Location: Portland, OR
+
+PROFESSIONAL SUMMARY
+Project Manager and Scrum Master with 6 years of experience leading cross-functional
+software development teams. PMP and CSM certified with a technical background in Python
+and data analysis.
+
+SKILLS
+- Project Management: Agile, Scrum, Kanban, Waterfall
+- Tools: Jira, Confluence, Asana, Monday.com, MS Project
+- Technical: Python, SQL, Excel (advanced), Power BI
+- Communication: Stakeholder management, presentations, documentation
+- Methodologies: SAFe, Lean, Six Sigma (Green Belt)
+
+EXPERIENCE
+
+Senior Project Manager | EnterpriseApps | 2022 - Present
+- Managed portfolio of 5 concurrent projects ($3M+ total budget)
+- Delivered all projects on time and within 5% of budget
+- Implemented OKR framework improving team alignment by 30%
+- Led digital transformation initiative for 200-person organization
+
+Scrum Master / Project Manager | AgileWorks | 2020 - 2022
+- Facilitated ceremonies for 3 Scrum teams (25 developers)
+- Reduced sprint cycle time by 20% through process improvements
+- Built Python-based reporting dashboard for executive visibility
+- Coached teams on agile practices and continuous improvement
+
+Technical Project Coordinator | TechBridge Solutions | 2018 - 2020
+- Coordinated software releases across multiple teams
+- Created and maintained project documentation
+- Tracked risks, issues, and dependencies
+- Automated status reporting using Python and Jira API
+
+EDUCATION
+M.B.A. Technology Management | Oregon State University | 2018
+B.S. Information Systems | University of Oregon | 2016
+
+CERTIFICATIONS
+- Project Management Professional (PMP)
+- Certified Scrum Master (CSM)
+- SAFe Agilist
+- Lean Six Sigma Green Belt

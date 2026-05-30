@@ -1,0 +1,41 @@
+MICHAEL JOHNSON
+Email: m.johnson@email.com | Phone: (555) 345-6789
+LinkedIn: linkedin.com/in/michaeljohnson | Location: Austin, TX
+
+PROFESSIONAL SUMMARY
+Full-stack developer with 6 years of experience specializing in React, Node.js, and cloud-native applications.
+Strong background in DevOps practices and agile methodologies.
+
+SKILLS
+- Frontend: React, Vue.js, Angular, HTML5, CSS3, Tailwind
+- Backend: Node.js, Express, Python, FastAPI
+- Databases: MySQL, PostgreSQL, MongoDB, DynamoDB
+- DevOps: Docker, Kubernetes, AWS, GitHub Actions, Terraform
+- Testing: Jest, Cypress, Playwright
+
+EXPERIENCE
+
+Lead Full-Stack Developer | WebScale Technologies | 2021 - Present
+- Architected and built SaaS platform serving 500K+ users
+- Implemented server-side rendering improving page load by 50%
+- Designed and built GraphQL API layer
+- Managed team of 8 developers across 3 time zones
+
+Full-Stack Developer | DigitalCraft | 2019 - 2021
+- Built responsive web applications using React and Node.js
+- Implemented authentication and authorization using OAuth 2.0
+- Integrated third-party APIs (Stripe, Twilio, SendGrid)
+- Reduced infrastructure costs by 35% through optimization
+
+Frontend Developer | CreativeApps | 2018 - 2019
+- Developed interactive UI components using React
+- Implemented state management with Redux
+- Improved accessibility compliance to WCAG 2.1 AA standards
+- Created design system used across multiple products
+
+EDUCATION
+B.S. Software Engineering | University of Texas at Austin | 2018
+
+CERTIFICATIONS
+- AWS Developer Associate
+- Meta Front-End Developer Professional Certificate
